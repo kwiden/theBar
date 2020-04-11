@@ -1,0 +1,25 @@
+<data>
+    <drink name="Vodka Cran">
+        <ing name="Vodka">2.3</ing>
+        <ing name="Cranberry">2.3</ing>
+    </drink>
+    <drink name="GnT">
+        <ing name="Gin">2</ing>
+        <ing name="Tonic">6</ing>
+        <ing name="Lime">3.3</ing>
+    </drink>
+    <drink name="Moscow Mule">
+        <ing name="Vodka">2.3</ing>
+        <ing name="Ginger Beer">2.3</ing>
+        <ing name="Elderflower">2.3</ing>
+        <ing name="Lime">2.3</ing>
+    </drink>
+    <drink name="Ameretto Sour">
+        <ing name="Sour">4</ing>
+        <ing name="Ameretto">3</ing>
+    </drink>
+    <drink name="Whiskey Sour">
+        <ing name="Sour">4</ing>
+        <ing name="Whiskey">3</ing>
+    </drink>
+</data>
