@@ -22,4 +22,13 @@
         <ing name="Sour">4</ing>
         <ing name="Whiskey">3</ing>
     </drink>
+    <drink name="Sweet Tart">
+        <ing name="Blue Curacao">4</ing>
+        <ing name="Amaretto">3</ing>
+        <ing name="Simple Syrup">3</ing>
+        <ing name="Lime">3</ing>
+        <ing name="Fake Alcohol">3</ing>
+        <ing name="Vodka">3</ing>
+        <ing name="More Alcohol">3</ing>
+    </drink>
 </data>
