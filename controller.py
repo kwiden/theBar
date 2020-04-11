@@ -40,7 +40,7 @@ class Controller(FloatLayout):
         i = 0;
         
         for item in self.list:
-            btn = Button(text=item.name, on_press=Command(self.do_action, i),background_normal = '', background_color = getColor(i))
+            btn = Button(text=item.name, on_press=Command(self.do_action, i), background_color = getColor(i))
             i += 1
             box.add_widget(btn)
         
