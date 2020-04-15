@@ -9,15 +9,6 @@ from kivy.uix.boxlayout import BoxLayout
 # you can control the ScreenManager from kv. Each screen has by default a
 # property manager that gives you the instance of the ScreenManager used.
 Builder.load_string("""
-<MenuScreen>:
-    BoxLayout:
-        Button:
-            text: 'Goto settings'
-            on_press:
-                root.manager.transition.direction = 'left'
-                root.manager.current = 'settings'
-        Button:
-            text: 'Quit'
 
 <SettingsScreen>:
     BoxLayout:
